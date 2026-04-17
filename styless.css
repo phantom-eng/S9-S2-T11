@@ -5,3 +5,7 @@ body{
 h1{ 
     color: blue;
 }
+.logo {
+    width: 150px; /* Cambia este número para hacer el logo más grande o más pequeño */
+    height: auto; /* Esto mantiene la proporción original de la imagen */
+}
